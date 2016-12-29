@@ -1,0 +1,1 @@
+<?=  $answer2['Producto']['precio']?>
